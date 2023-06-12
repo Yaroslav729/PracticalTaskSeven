@@ -1,0 +1,15 @@
+G:\GB\PracticalTaskSeven\Task Forty-Seven\bin\Debug\net7.0\Task Forty-Seven.exe
+G:\GB\PracticalTaskSeven\Task Forty-Seven\bin\Debug\net7.0\Task Forty-Seven.deps.json
+G:\GB\PracticalTaskSeven\Task Forty-Seven\bin\Debug\net7.0\Task Forty-Seven.runtimeconfig.json
+G:\GB\PracticalTaskSeven\Task Forty-Seven\bin\Debug\net7.0\Task Forty-Seven.dll
+G:\GB\PracticalTaskSeven\Task Forty-Seven\bin\Debug\net7.0\Task Forty-Seven.pdb
+G:\GB\PracticalTaskSeven\Task Forty-Seven\obj\Debug\net7.0\Task Forty-Seven.csproj.AssemblyReference.cache
+G:\GB\PracticalTaskSeven\Task Forty-Seven\obj\Debug\net7.0\Task Forty-Seven.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\PracticalTaskSeven\Task Forty-Seven\obj\Debug\net7.0\Task Forty-Seven.AssemblyInfoInputs.cache
+G:\GB\PracticalTaskSeven\Task Forty-Seven\obj\Debug\net7.0\Task Forty-Seven.AssemblyInfo.cs
+G:\GB\PracticalTaskSeven\Task Forty-Seven\obj\Debug\net7.0\Task Forty-Seven.csproj.CoreCompileInputs.cache
+G:\GB\PracticalTaskSeven\Task Forty-Seven\obj\Debug\net7.0\Task Forty-Seven.dll
+G:\GB\PracticalTaskSeven\Task Forty-Seven\obj\Debug\net7.0\refint\Task Forty-Seven.dll
+G:\GB\PracticalTaskSeven\Task Forty-Seven\obj\Debug\net7.0\Task Forty-Seven.pdb
+G:\GB\PracticalTaskSeven\Task Forty-Seven\obj\Debug\net7.0\Task Forty-Seven.genruntimeconfig.cache
+G:\GB\PracticalTaskSeven\Task Forty-Seven\obj\Debug\net7.0\ref\Task Forty-Seven.dll
